@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="DESKTOP-NK4BLIJ">
+  <network ComPort="192.168.1.251" BaudRate="19" NetworkType="E131" SuppressDuplicates="Yes" Description="Sign" MaxChannels="120"/>
+  <network ComPort="192.168.1.251" BaudRate="17" NetworkType="E131" SuppressDuplicates="Yes" Description="Snowflake Center" MaxChannels="360"/>
+  <network ComPort="192.168.1.251" BaudRate="18" NetworkType="E131" SuppressDuplicates="Yes" Description="Snowflake Right" MaxChannels="360"/>
+  <network ComPort="192.168.1.251" BaudRate="16" NetworkType="E131" SuppressDuplicates="Yes" Description="Snowflake Left" MaxChannels="360"/>
+  <network ComPort="192.168.1.251" BaudRate="15" NetworkType="E131" SuppressDuplicates="Yes" Description="TRE-&amp;gt;TLE Port 8" MaxChannels="510"/>
+  <network ComPort="192.168.1.251" BaudRate="13" NetworkType="E131" SuppressDuplicates="Yes" Description="TRG Port 7" MaxChannels="510" NumUniverses="2"/>
+  <network ComPort="192.168.1.251" BaudRate="10" NetworkType="E131" SuppressDuplicates="Yes" Description="TLG-&amp;gt;TRP-&amp;gt;TLP" MaxChannels="510" NumUniverses="3"/>
+  <network ComPort="192.168.1.251" BaudRate="8" NetworkType="E131" SuppressDuplicates="Yes" Description="BRE-&amp;gt;BLE Port5" MaxChannels="510" NumUniverses="2"/>
+  <network ComPort="192.168.1.251" BaudRate="6" NetworkType="E131" SuppressDuplicates="Yes" Description="BRG Port 4" MaxChannels="510" NumUniverses="2"/>
+  <network ComPort="192.168.1.251" BaudRate="4" NetworkType="E131" SuppressDuplicates="Yes" Description="BRP-&amp;gt;BLP Port 3" MaxChannels="510" NumUniverses="2"/>
+  <network ComPort="192.168.1.251" BaudRate="3" NetworkType="E131" SuppressDuplicates="Yes" Description="RIC-&amp;gt;ROC Port 2" MaxChannels="510"/>
+  <network ComPort="192.168.1.251" BaudRate="1" NetworkType="E131" SuppressDuplicates="Yes" Description="LIC-&amp;gt;LOC Port 1" MaxChannels="510" NumUniverses="2"/>
+  <network ComPort="192.168.1.25" BaudRate="1" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 1" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="2" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 2" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="3" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 3" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="4" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 4" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="5" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 5" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="6" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 6" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="7" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 7" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="8" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 8" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="9" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 9" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="10" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 10" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="11" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 11" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="12" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 12" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="13" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 13" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="14" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 14" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="15" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 15" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="16" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 16" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="17" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 17" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="18" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 18" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="19" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 19" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="20" NetworkType="E131" SuppressDuplicates="Yes" Description="Tree Leg 20" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="21" NetworkType="E131" SuppressDuplicates="Yes" Description="Star Inside" MaxChannels="60"/>
+  <network ComPort="192.168.1.25" BaudRate="22" NetworkType="E131" SuppressDuplicates="Yes" Description="Star Middle" MaxChannels="90"/>
+  <network ComPort="192.168.1.25" BaudRate="23" NetworkType="E131" SuppressDuplicates="Yes" Description="Start Outside" MaxChannels="120"/>
+  <network ComPort="192.168.1.25" BaudRate="24" NetworkType="E131" SuppressDuplicates="Yes" Description="Left Arcs" MaxChannels="510"/>
+  <network ComPort="192.168.1.25" BaudRate="25" NetworkType="E131" SuppressDuplicates="Yes" Description="Right Arcs" MaxChannels="510"/>
+  <network ComPort="192.168.1.24" BaudRate="1" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Left" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="2" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Left" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="3" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Left" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="4" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Left" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="5" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Left" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="6" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Left" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="7" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Left" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="8" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Left" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="9" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Right" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="10" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Right" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="11" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Right" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="12" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Right" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="13" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Right" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="14" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Right" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="15" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Right" MaxChannels="144"/>
+  <network ComPort="192.168.1.24" BaudRate="16" NetworkType="E131" SuppressDuplicates="Yes" Description="Matrix Right" MaxChannels="144"/>
+  <testpreset name="jj">
+    <channelr start="1" end="900"/>
+  </testpreset>
+</Networks>

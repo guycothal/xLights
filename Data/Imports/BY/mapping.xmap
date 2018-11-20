@@ -1,0 +1,48 @@
+false
+23
+House
+Matrix Left
+Matrix Right
+Snowflakes
+Snowflake Left
+Snowflake Center
+Snowflake Right
+Back Light
+Roof Line
+Corners
+Porch Roof
+House Roof
+Everything
+Star
+Tree
+Arches
+Left Arches
+Right Arches
+Everything Except Tree
+Martices
+Tune In sign
+Tree and Star
+Tree and Arches
+House			Whole House	white
+Matrix Left			Matrix Wind L	white
+Matrix Right			Matrix Wind R	white
+Snowflakes			SnowFlakes	white
+Snowflake Left			SnowFlake L	white
+Snowflake Center			SnowFlake C	white
+Snowflake Right			SnowFlake R	white
+Back Light			Spirals All	white
+Roof Line			Roof	white
+Corners			Spirals Trees	white
+Porch Roof			Roof Lower	white
+House Roof			Roof Upper	white
+Everything			Matrix Steps	white
+Star			Spiral Lg Tree	white
+Tree			FPPMatrix	white
+Arches			Wreaths	white
+Left Arches			Wreath L	white
+Right Arches			Wreath R	white
+Everything Except Tree			Flat Trees	white
+Martices			Matrix Win	white
+Tune In sign			Windows	white
+Tree and Star			Mini Tree Flat R	white
+Tree and Arches			Mini Tree Flat L	white

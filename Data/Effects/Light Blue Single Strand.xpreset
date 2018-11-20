@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset SourceVersion="2017.23" >
+<effect name="Light Blue Single Strand" settings="CopyFormat1&#9;0&#9;1&#9;4&#9;0&#9;340&#9;PASTE_BY_CELL&#10;SingleStrand&#9;E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=40,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=7,E_SLIDER_Skips_BandSize=3,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0&#9;C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#3ABBFF,C_BUTTON_Palette3=#FF664E,C_BUTTON_Palette4=#FF17C7,C_BUTTON_Palette5=#FFF406,C_BUTTON_Palette6=#000000,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1&#9;170125&#9;170625&#9;10&#9;-1000&#9;340&#9;340&#9;0&#9;100&#10;" version="0006" xLightsVersion="4.0" />
+</preset>

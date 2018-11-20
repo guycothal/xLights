@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2018.39</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#FFFFFF,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#FFFFFF,C_BUTTON_Palette4=#000000,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#FFFFFF,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1,C_SLIDER_Brightness=99</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Shape_FadeAway=0,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_RandomInitial=1,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=0,E_CHOICE_Shape_ObjectToDraw=Circle,E_SLIDER_Shape_CentreX=50,E_SLIDER_Shape_CentreY=50,E_SLIDER_Shape_Growth=-100,E_SLIDER_Shape_Lifetime=1,E_SLIDER_Shape_StartSize=44,E_SLIDER_Shape_Thickness=1,E_TEXTCTRL_Shape_Count=1</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\Users\Mike\Desktop\black-peace-sign.jpg,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=6,E_SLIDER_Pictures_StartScale=6,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=140,E_SLIDER_Pinwheel_Arms=8,E_SLIDER_Pinwheel_Speed=0,E_SLIDER_Pinwheel_Thickness=0,E_SLIDER_Pinwheel_Twist=0,T_CHOICE_LayerMethod=Layered</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="5242975" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Output 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 7" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 8" visible="1"/>
+    <Element collapsed="0" type="model" name="House" visible="1"/>
+    <Element collapsed="0" type="model" name="Back Light" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof Line" visible="1"/>
+    <Element collapsed="0" type="model" name="Corners" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="House Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="House and Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Martices" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree and Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="House Strands" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything Except Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree and Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake Center" visible="1"/>
+    <Element collapsed="0" type="model" name="Tune In sign" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Arch Inside" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Arch Middle" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Arch Outside" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Arch Inside" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Arch Middle" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Arch Outside" visible="1"/>
+    <Element collapsed="0" type="model" name="Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="LIC" visible="1"/>
+    <Element collapsed="0" type="model" name="BRP" visible="1"/>
+    <Element collapsed="0" type="model" name="TRP" visible="1"/>
+    <Element collapsed="0" type="model" name="BLE" visible="1"/>
+    <Element collapsed="0" type="model" name="TRE" visible="1"/>
+    <Element collapsed="0" type="model" name="TLE" visible="1"/>
+    <Element collapsed="0" type="model" name="TRG" visible="1"/>
+    <Element collapsed="0" type="model" name="BRE" visible="1"/>
+    <Element collapsed="0" type="model" name="TLG" visible="1"/>
+    <Element collapsed="0" type="model" name="TLP" visible="1"/>
+    <Element collapsed="0" type="model" name="BRG" visible="1"/>
+    <Element collapsed="0" type="model" name="BLP" visible="1"/>
+    <Element collapsed="0" type="model" name="RIC" visible="1"/>
+    <Element collapsed="0" type="model" name="ROC" visible="1"/>
+    <Element collapsed="0" type="model" name="LOC" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Back Light">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof Line">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Corners">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House and Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Martices">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree and Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Strands">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything Except Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree and Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake Right">
+      <EffectLayer>
+        <Effect ref="0" name="Shape" startTime="100" endTime="7400" palette="0"/>
+        <Effect ref="1" name="Pictures" id="1" startTime="10950" endTime="16600" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Pinwheel" startTime="0" endTime="6950" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Snowflake Center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tune In sign">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Arch Inside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Arch Middle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Arch Outside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Arch Inside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Arch Middle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Arch Outside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LIC">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="BRP">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TRP">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="BLE">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TRE">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TLE">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TRG">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="BRE">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TLG">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TLP">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="BRG">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="BLP">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RIC">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="ROC">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LOC">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

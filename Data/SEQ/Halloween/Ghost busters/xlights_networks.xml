@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="LAPTOP-N880J57E">
+  <network ComPort="COM3" BaudRate="115200" Id="0" NetworkType="LOR" Description="LOR" MaxChannels="64"/>
+  <network ComPort="10.0.0.206" BaudRate="1" NetworkType="E131" Description="Location: Top Roof E682" MaxChannels="510"/>
+  <network ComPort="10.0.0.206" BaudRate="2" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.206" BaudRate="3" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.206" BaudRate="4" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.206" BaudRate="5" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.206" BaudRate="6" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.206" BaudRate="7" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.206" BaudRate="8" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.206" BaudRate="9" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.206" BaudRate="10" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.207" BaudRate="1" NetworkType="E131" Description="Location: Lower House E6804" MaxChannels="510"/>
+  <network ComPort="10.0.0.207" BaudRate="2" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.207" BaudRate="3" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.207" BaudRate="4" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.207" BaudRate="5" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.207" BaudRate="6" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.208" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.208" BaudRate="2" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.208" BaudRate="3" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.208" BaudRate="4" NetworkType="E131" MaxChannels="510"/>
+  <network ComPort="10.0.0.211" BaudRate="1" NetworkType="E131" Description="web" MaxChannels="510"/>
+  <network ComPort="10.0.0.211" BaudRate="2" NetworkType="E131" Description="web" MaxChannels="510"/>
+  <network ComPort="10.0.0.211" BaudRate="3" NetworkType="E131" Description="web" MaxChannels="510"/>
+  <network ComPort="10.0.0.211" BaudRate="4" NetworkType="E131" Description="web" MaxChannels="510"/>
+</Networks>

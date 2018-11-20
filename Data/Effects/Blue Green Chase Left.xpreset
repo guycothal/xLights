@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset SourceVersion="2017.23" >
+<effect name="Blue Green Chase Left" settings="CopyFormat1&#9;0&#9;1&#9;1&#9;0&#9;12&#9;PASTE_BY_CELL&#10;Bars&#9;B_SLIDER_PivotPointX=100,B_SLIDER_PivotPointY=7,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0&#9;C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1&#9;600&#9;3200&#9;6&#9;-1000&#9;12&#9;63&#9;0&#9;100&#10;" version="0006" xLightsVersion="4.0" />
+</preset>

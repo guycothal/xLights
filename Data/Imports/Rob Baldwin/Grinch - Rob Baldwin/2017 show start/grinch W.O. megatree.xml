@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="false">
+  <head>
+    <version>2017.44</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>You're a Mean One Mr. Grinch</song>
+    <artist>Burl Ives</artist>
+    <album>Forever Burl Ives, Vol. 2</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>178.755</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#FF0000,C_BUTTON_Palette5=#00FF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#FF0000,C_BUTTON_Palette5=#00FF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#FF0000,C_BUTTON_Palette5=#00FF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette4=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Galaxy_Blend_Edges=1,E_CHECKBOX_Galaxy_Inward=0,E_CHECKBOX_Galaxy_Reverse=1,E_NOTEBOOK_Galaxy=Options,E_SLIDER_Galaxy_Accel=0,E_SLIDER_Galaxy_CenterX=50,E_SLIDER_Galaxy_CenterY=50,E_SLIDER_Galaxy_Duration=20,E_SLIDER_Galaxy_End_Radius=0,E_SLIDER_Galaxy_End_Width=5,E_SLIDER_Galaxy_Revolutions=3600,E_SLIDER_Galaxy_Start_Angle=205,E_SLIDER_Galaxy_Start_Radius=250,E_SLIDER_Galaxy_Start_Width=5</Effect>
+    <Effect>E_CHECKBOX_Galaxy_Blend_Edges=1,E_CHECKBOX_Galaxy_Inward=0,E_CHECKBOX_Galaxy_Reverse=1,E_NOTEBOOK_Galaxy=End,E_SLIDER_Galaxy_Accel=0,E_SLIDER_Galaxy_CenterX=50,E_SLIDER_Galaxy_CenterY=50,E_SLIDER_Galaxy_Duration=20,E_SLIDER_Galaxy_End_Radius=250,E_SLIDER_Galaxy_End_Width=5,E_SLIDER_Galaxy_Revolutions=3600,E_SLIDER_Galaxy_Start_Angle=205,E_SLIDER_Galaxy_Start_Radius=0,E_SLIDER_Galaxy_Start_Width=5</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Speed=6,E_SLIDER_Pinwheel_Thickness=27,E_SLIDER_Pinwheel_Twist=-349,E_VALUECURVE_PinwheelXC=Active=FALSE|,E_VALUECURVE_PinwheelYC=Active=FALSE|,E_VALUECURVE_Pinwheel_ArmSize=Active=FALSE|,E_VALUECURVE_Pinwheel_Speed=Active=FALSE|,E_VALUECURVE_Pinwheel_Thickness=Active=FALSE|,E_VALUECURVE_Pinwheel_Twist=Active=FALSE|</Effect>
+    <Effect></Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_3D=None,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Speed=6,E_SLIDER_Pinwheel_Thickness=27,E_SLIDER_Pinwheel_Twist=360,E_VALUECURVE_PinwheelXC=Active=FALSE|,E_VALUECURVE_PinwheelYC=Active=FALSE|,E_VALUECURVE_Pinwheel_ArmSize=Active=FALSE|,E_VALUECURVE_Pinwheel_Speed=Active=FALSE|,E_VALUECURVE_Pinwheel_Thickness=Active=FALSE|,E_VALUECURVE_Pinwheel_Twist=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=70,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,E_VALUECURVE_Chase_Rotations=Active=FALSE|,E_VALUECURVE_Color_Mix1=Active=FALSE|,E_VALUECURVE_Number_Chases=Active=FALSE|</Effect>
+    <Effect>T_TEXTCTRL_Fadeout=1.00</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=50,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=301,E_SLIDER_Fan_Num_Blades=3,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=306,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1</Effect>
+    <Effect>E_CHECKBOX_Galaxy_Blend_Edges=1,E_CHECKBOX_Galaxy_Inward=0,E_CHECKBOX_Galaxy_Reverse=0,E_NOTEBOOK_Galaxy=End,E_SLIDER_Galaxy_Accel=0,E_SLIDER_Galaxy_CenterX=50,E_SLIDER_Galaxy_CenterY=50,E_SLIDER_Galaxy_Duration=20,E_SLIDER_Galaxy_End_Radius=250,E_SLIDER_Galaxy_End_Width=5,E_SLIDER_Galaxy_Revolutions=3600,E_SLIDER_Galaxy_Start_Angle=0,E_SLIDER_Galaxy_Start_Radius=0,E_SLIDER_Galaxy_Start_Width=5</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=55,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,E_VALUECURVE_Chase_Rotations=Active=FALSE|,E_VALUECURVE_Color_Mix1=Active=FALSE|,E_VALUECURVE_Number_Chases=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=53,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,E_VALUECURVE_Chase_Rotations=Active=FALSE|,E_VALUECURVE_Color_Mix1=Active=FALSE|,E_VALUECURVE_Number_Chases=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_FadeWithDistance=0,E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Implode,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=10,E_SLIDER_Meteors_Length=2,E_SLIDER_Meteors_Speed=14,E_SLIDER_Meteors_Swirl_Intensity=0,E_TEXTCTRL_Meteors_XOffset=0,E_TEXTCTRL_Meteors_YOffset=0</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=293,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=0.5,E_VALUECURVE_Spirals_Count=Active=FALSE|,E_VALUECURVE_Spirals_Movement=Active=FALSE|,E_VALUECURVE_Spirals_Rotation=Active=FALSE|,E_VALUECURVE_Spirals_Thickness=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=close then open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0,E_VALUECURVE_Curtain_Speed=Active=FALSE|,E_VALUECURVE_Curtain_Swag=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=To Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=42,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,E_VALUECURVE_Chase_Rotations=Active=FALSE|,E_VALUECURVE_Color_Mix1=Active=FALSE|,E_VALUECURVE_Number_Chases=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close then open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0,E_VALUECURVE_Curtain_Speed=Active=FALSE|,E_VALUECURVE_Curtain_Swag=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Dual Bounce,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=48,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,E_VALUECURVE_Chase_Rotations=Active=FALSE|,E_VALUECURVE_Color_Mix1=Active=FALSE|,E_VALUECURVE_Number_Chases=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=10,E_SLIDER_Meteors_Length=6,E_SLIDER_Meteors_Speed=16,E_SLIDER_Meteors_Swirl_Intensity=0,E_TEXTCTRL_Meteors_XOffset=0,E_TEXTCTRL_Meteors_YOffset=0</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Speed=5,E_SLIDER_Pinwheel_Thickness=24,E_SLIDER_Pinwheel_Twist=-360,E_VALUECURVE_PinwheelXC=Active=FALSE|,E_VALUECURVE_PinwheelYC=Active=FALSE|,E_VALUECURVE_Pinwheel_ArmSize=Active=FALSE|,E_VALUECURVE_Pinwheel_Speed=Active=FALSE|,E_VALUECURVE_Pinwheel_Thickness=Active=FALSE|,E_VALUECURVE_Pinwheel_Twist=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Galaxy_Blend_Edges=1,E_CHECKBOX_Galaxy_Inward=0,E_CHECKBOX_Galaxy_Reverse=1,E_NOTEBOOK_Galaxy=Start,E_SLIDER_Galaxy_Accel=0,E_SLIDER_Galaxy_CenterX=50,E_SLIDER_Galaxy_CenterY=50,E_SLIDER_Galaxy_Duration=20,E_SLIDER_Galaxy_End_Radius=250,E_SLIDER_Galaxy_End_Width=5,E_SLIDER_Galaxy_Revolutions=3600,E_SLIDER_Galaxy_Start_Angle=205,E_SLIDER_Galaxy_Start_Radius=0,E_SLIDER_Galaxy_Start_Width=5</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Band_Size=Active=FALSE|,E_VALUECURVE_Fill_Offset=Active=FALSE|,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Custom|Min=0.00|Max=100.00|Values=0.00:1.00;0.50:0.00;0.98:1.00;1.00:0.00|,E_VALUECURVE_Fill_Skip_Size=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Circles_Bounce=0,E_CHECKBOX_Circles_Bubbles=0,E_CHECKBOX_Circles_Collide=0,E_CHECKBOX_Circles_Linear_Fade=0,E_CHECKBOX_Circles_Plasma=0,E_CHECKBOX_Circles_Radial=0,E_CHECKBOX_Circles_Radial_3D=0,E_CHECKBOX_Circles_Random_m=0,E_SLIDER_Circles_Count=4,E_SLIDER_Circles_Size=5,E_SLIDER_Circles_Speed=27,E_VALUECURVE_Circles_Count=Active=FALSE|,E_VALUECURVE_Circles_Size=Active=FALSE|,E_VALUECURVE_Circles_Speed=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=47,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,E_VALUECURVE_Chase_Rotations=Active=FALSE|,E_VALUECURVE_Color_Mix1=Active=FALSE|,E_VALUECURVE_Number_Chases=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Down,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Band_Size=Active=FALSE|,E_VALUECURVE_Fill_Offset=Active=FALSE|,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Custom|Min=0.00|Max=100.00|Values=0.00:1.00;0.45:0.02;0.50:0.03;1.00:1.00|,E_VALUECURVE_Fill_Skip_Size=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=55,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,E_VALUECURVE_Chase_Rotations=Active=FALSE|,E_VALUECURVE_Color_Mix1=Active=FALSE|,E_VALUECURVE_Number_Chases=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Up,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=5,E_SLIDER_Meteors_Length=6,E_SLIDER_Meteors_Speed=19,E_SLIDER_Meteors_Swirl_Intensity=0,E_TEXTCTRL_Meteors_XOffset=0,E_TEXTCTRL_Meteors_YOffset=0</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0,E_VALUECURVE_Curtain_Speed=Active=FALSE|,E_VALUECURVE_Curtain_Swag=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=4,E_SLIDER_Pinwheel_Speed=3,E_SLIDER_Pinwheel_Thickness=24,E_SLIDER_Pinwheel_Twist=0,E_VALUECURVE_PinwheelXC=Active=FALSE|,E_VALUECURVE_PinwheelYC=Active=FALSE|,E_VALUECURVE_Pinwheel_ArmSize=Active=FALSE|,E_VALUECURVE_Pinwheel_Speed=Active=FALSE|,E_VALUECURVE_Pinwheel_Thickness=Active=FALSE|,E_VALUECURVE_Pinwheel_Twist=Active=FALSE|</Effect>
+    <Effect>E_CHECKBOX_FadeWithDistance=0,E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Explode,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=10,E_SLIDER_Meteors_Length=3,E_SLIDER_Meteors_Speed=5,E_SLIDER_Meteors_Swirl_Intensity=0,E_TEXTCTRL_Meteors_XOffset=0,E_TEXTCTRL_Meteors_YOffset=0</Effect>
+    <Effect>E_CHECKBOX_FadeWithDistance=0,E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Explode,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=10,E_SLIDER_Meteors_Length=5,E_SLIDER_Meteors_Speed=15,E_SLIDER_Meteors_Swirl_Intensity=0,E_TEXTCTRL_Meteors_XOffset=0,E_TEXTCTRL_Meteors_YOffset=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_FONTPICKER_Text_Font=bold 'segoe ui' 72 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Tune In 91.9 F.M.,E_TEXTCTRL_Text_Speed=35</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_FONTPICKER_Text_Font=bold 'segoe ui' 72 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Burl Ives - You're a Mean One&amp;comma; Mr. Grinch,E_TEXTCTRL_Text_Speed=35</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=D:\xlights4\2017 show start/_lost/merry-christmas-2014-wishes.jpg,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="539182488" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="2016 show,data layer,papagayo" active="0"/>
+    <Element collapsed="0" type="model" name="Group - Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Group - Mega tree and snowflake" visible="1"/>
+    <Element collapsed="0" type="model" name="Group - circles 1-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Group - Eaves" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral tree 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral tree 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Group - santa reindeer sleigh" visible="1"/>
+    <Element collapsed="0" type="model" name="Group - Spiral trees" visible="1"/>
+    <Element collapsed="0" type="model" name="Group - Live tree" visible="1"/>
+    <Element collapsed="0" type="model" name="mega tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="p10 matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="sleigh" visible="1"/>
+    <Element collapsed="0" type="model" name="Eave 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Eave 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Eave 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Eave 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Eave 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Eave 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Eave 7" visible="1"/>
+    <Element collapsed="0" type="model" name="Eave 8" visible="1"/>
+    <Element collapsed="0" type="model" name="Eave 9" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 1 top" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 2 top" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 3 Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 4 Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 5 Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 1 bot" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 2 Bot" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 3 Bot" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 4 bot" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 5 bot" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 6 bot" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 6 top" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 7 Bot" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 7 Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 8 Bot" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 8 top" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 9 bot" visible="1"/>
+    <Element collapsed="0" type="model" name="Cir 9 top" visible="1"/>
+    <Element collapsed="0" type="model" name="Circ 10 bot" visible="1"/>
+    <Element collapsed="0" type="model" name="Circ 10 top" visible="1"/>
+    <Element collapsed="0" type="model" name="tree trunk" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Group - Lights">
+      <EffectLayer>
+        <Effect ref="0" name="Galaxy" startTime="400" endTime="2900" palette="0"/>
+        <Effect ref="0" name="Galaxy" id="1" startTime="2900" endTime="3500" palette="0"/>
+        <Effect ref="0" name="Galaxy" id="2" startTime="3500" endTime="4200" palette="1"/>
+        <Effect ref="1" name="Galaxy" id="3" startTime="4250" endTime="4750" palette="1"/>
+        <Effect ref="2" name="Pinwheel" id="4" startTime="4750" endTime="12450" palette="1"/>
+        <Effect ref="3" name="On" id="5" startTime="12550" endTime="12750" palette="1"/>
+        <Effect ref="3" name="On" id="6" startTime="13150" endTime="13350" palette="2"/>
+        <Effect ref="4" name="Pinwheel" id="7" startTime="13850" endTime="19550" palette="1"/>
+        <Effect ref="5" name="SingleStrand" id="8" startTime="19550" endTime="20400" palette="1"/>
+        <Effect ref="3" name="On" id="9" startTime="23550" endTime="23750" palette="1"/>
+        <Effect ref="6" name="On" id="10" startTime="24300" endTime="25900" palette="2"/>
+        <Effect ref="7" name="Fan" id="11" startTime="26050" endTime="33600" palette="1"/>
+        <Effect ref="3" name="On" id="12" startTime="33650" endTime="34050" palette="1"/>
+        <Effect ref="3" name="On" id="13" startTime="34250" endTime="34750" palette="2"/>
+        <Effect ref="8" name="Galaxy" id="14" startTime="35050" endTime="42850" palette="2"/>
+        <Effect ref="9" name="SingleStrand" id="15" startTime="42850" endTime="43650" palette="1"/>
+        <Effect ref="0" name="Galaxy" id="16" startTime="43850" endTime="49900" palette="2"/>
+        <Effect ref="10" name="SingleStrand" id="17" startTime="49900" endTime="50600" palette="2"/>
+        <Effect ref="11" name="Meteors" id="18" startTime="51700" endTime="56050" palette="2"/>
+        <Effect ref="12" name="Spirals" id="19" startTime="56050" endTime="58300" palette="2"/>
+        <Effect ref="13" name="Curtain" id="20" startTime="58300" endTime="66100" palette="2"/>
+        <Effect ref="14" name="SingleStrand" id="21" startTime="66450" endTime="67250" palette="2"/>
+        <Effect ref="15" name="Curtain" id="22" startTime="67500" endTime="73400" palette="2"/>
+        <Effect ref="16" name="SingleStrand" id="23" startTime="73400" endTime="74250" palette="2"/>
+        <Effect ref="17" name="Meteors" id="24" startTime="75150" endTime="80400" palette="2"/>
+        <Effect ref="18" name="Pinwheel" id="25" startTime="80400" endTime="83350" palette="1"/>
+        <Effect ref="0" name="Galaxy" id="26" startTime="83350" endTime="84150" palette="1"/>
+        <Effect ref="19" name="Galaxy" id="27" startTime="84450" endTime="85100" palette="1"/>
+        <Effect ref="0" name="Galaxy" id="28" startTime="85700" endTime="93150" palette="1"/>
+        <Effect ref="20" name="Fill" id="29" startTime="93150" endTime="93800" palette="1"/>
+        <Effect ref="21" name="Circles" id="30" startTime="94850" endTime="100200" palette="1"/>
+        <Effect ref="22" name="SingleStrand" id="31" startTime="100200" endTime="100900" palette="1"/>
+        <Effect ref="3" name="On" id="32" startTime="108800" endTime="109250" palette="1"/>
+        <Effect ref="3" name="On" id="33" startTime="110050" endTime="110450" palette="2"/>
+        <Effect ref="3" name="On" id="34" startTime="111100" endTime="111300" palette="1"/>
+        <Effect ref="3" name="On" id="35" startTime="111350" endTime="111650" palette="2"/>
+        <Effect ref="3" name="On" id="36" startTime="111900" endTime="112250" palette="1"/>
+        <Effect ref="0" name="Galaxy" id="37" startTime="112500" endTime="113150" palette="1"/>
+        <Effect ref="23" name="Fill" id="38" startTime="120450" endTime="121200" palette="1"/>
+        <Effect ref="7" name="Fan" id="39" startTime="121650" endTime="127500" palette="1"/>
+        <Effect ref="24" name="SingleStrand" id="40" startTime="127500" endTime="128250" palette="1"/>
+        <Effect ref="25" name="Meteors" id="41" startTime="129200" endTime="141000" palette="1"/>
+        <Effect ref="26" name="Curtain" id="42" startTime="141000" endTime="143200" palette="1"/>
+        <Effect ref="27" name="Pinwheel" id="43" startTime="143500" endTime="151450" palette="1"/>
+        <Effect ref="0" name="Galaxy" id="44" startTime="151450" endTime="152100" palette="1"/>
+        <Effect ref="7" name="Fan" id="45" startTime="152450" endTime="158350" palette="1"/>
+        <Effect ref="16" name="SingleStrand" id="46" startTime="158350" endTime="159150" palette="1"/>
+        <Effect ref="28" name="Meteors" id="47" startTime="160100" endTime="169750" palette="1"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="29" name="Meteors" startTime="102000" endTime="110650" palette="1"/>
+        <Effect ref="0" name="Galaxy" id="1" startTime="112200" endTime="120450" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Group - Mega tree and snowflake">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Group - circles 1-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Group - Eaves">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral tree 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral tree 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Group - santa reindeer sleigh">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Group - Spiral trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Group - Live tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="mega tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix">
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="p10 matrix">
+      <EffectLayer>
+        <Effect ref="30" name="Text" startTime="0" endTime="8900" palette="3"/>
+        <Effect ref="31" name="Text" id="1" startTime="8900" endTime="27000" palette="4"/>
+        <Effect ref="30" name="Text" id="2" startTime="30000" endTime="38900" palette="5"/>
+        <Effect ref="32" name="Pictures" id="3" startTime="38900" endTime="59850" palette="5"/>
+        <Effect ref="30" name="Text" id="4" startTime="60000" endTime="68900" palette="5"/>
+        <Effect ref="32" name="Pictures" id="5" startTime="68900" endTime="89850" palette="5"/>
+        <Effect ref="30" name="Text" id="6" startTime="90050" endTime="98950" palette="5"/>
+        <Effect ref="32" name="Pictures" id="7" startTime="98950" endTime="119900" palette="5"/>
+        <Effect ref="30" name="Text" id="8" startTime="120050" endTime="128950" palette="5"/>
+        <Effect ref="32" name="Pictures" id="9" startTime="128950" endTime="149900" palette="5"/>
+        <Effect ref="30" name="Text" id="10" startTime="150000" endTime="158900" palette="5"/>
+        <Effect ref="32" name="Pictures" id="11" startTime="158900" endTime="175750" palette="5"/>
+      </EffectLayer>
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="sleigh">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eave 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eave 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eave 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eave 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eave 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eave 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eave 7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eave 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eave 9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 1 top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 2 top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 3 Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 4 Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 5 Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 1 bot">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 2 Bot">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 3 Bot">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 4 bot">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 5 bot">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 6 bot">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 6 top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 7 Bot">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 7 Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 8 Bot">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 8 top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 9 bot">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cir 9 top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circ 10 bot">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circ 10 top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="tree trunk">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

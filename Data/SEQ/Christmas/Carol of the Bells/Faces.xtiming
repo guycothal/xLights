@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timing name="Faces" SourceVersion="2018.34">
+   <EffectLayer>
+      <Effect label="" starttime="0" endtime="76100" />
+      <Effect label="Merry Christmas" starttime="76100" endtime="77575" />
+      <Effect label="" starttime="77575" endtime="78300" />
+      <Effect label="" starttime="78300" endtime="79100" />
+      <Effect label="" starttime="79100" endtime="79650" />
+      <Effect label="" starttime="79650" endtime="80200" />
+      <Effect label="" starttime="80200" endtime="81325" />
+      <Effect label="" starttime="81325" endtime="81775" />
+      <Effect label="" starttime="81775" endtime="82800" />
+      <Effect label="" starttime="82800" endtime="83225" />
+      <Effect label="" starttime="83225" endtime="83600" />
+      <Effect label="" starttime="83600" endtime="84325" />
+      <Effect label="" starttime="84325" endtime="85100" />
+      <Effect label="" starttime="85100" endtime="85650" />
+      <Effect label="" starttime="85650" endtime="86625" />
+      <Effect label="" starttime="86625" endtime="87375" />
+      <Effect label="" starttime="87375" endtime="88075" />
+      <Effect label="" starttime="88075" endtime="89025" />
+      <Effect label="Come On" starttime="89025" endtime="89575" />
+      <Effect label="" starttime="89575" endtime="101025" />
+      <Effect label="Come On" starttime="101025" endtime="101575" />
+      <Effect label="" starttime="101575" endtime="160100" />
+      <Effect label="Drop the bass hoot" starttime="160100" endtime="161600" />
+      <Effect label="" starttime="161600" endtime="173025" />
+      <Effect label="Come On" starttime="173025" endtime="173600" />
+   </EffectLayer>
+   <EffectLayer>
+      <Effect label="Merry" starttime="76100" endtime="76575" />
+      <Effect label="Christmas" starttime="76575" endtime="77575" />
+      <Effect label="Come" starttime="89025" endtime="89275" />
+      <Effect label="On" starttime="89275" endtime="89575" />
+      <Effect label="Come" starttime="101025" endtime="101250" />
+      <Effect label="On" starttime="101250" endtime="101575" />
+      <Effect label="Drop" starttime="160100" endtime="160600" />
+      <Effect label="the" starttime="160600" endtime="160875" />
+      <Effect label="bass" starttime="160875" endtime="161150" />
+      <Effect label="hoot" starttime="161150" endtime="161600" />
+      <Effect label="Come" starttime="173025" endtime="173300" />
+      <Effect label="On" starttime="173300" endtime="173600" />
+   </EffectLayer>
+   <EffectLayer>
+      <Effect label="MBP" starttime="76100" endtime="76225" />
+      <Effect label="E" starttime="76225" endtime="76325" />
+      <Effect label="etc" starttime="76325" endtime="76450" />
+      <Effect label="E" starttime="76450" endtime="76575" />
+      <Effect label="etc" starttime="76575" endtime="76625" />
+      <Effect label="etc" starttime="76625" endtime="76750" />
+      <Effect label="AI" starttime="76750" endtime="76900" />
+      <Effect label="etc" starttime="76900" endtime="76975" />
+      <Effect label="MBP" starttime="76975" endtime="77125" />
+      <Effect label="AI" starttime="77125" endtime="77500" />
+      <Effect label="etc" starttime="77500" endtime="77575" />
+      <Effect label="etc" starttime="89025" endtime="89100" />
+      <Effect label="AI" starttime="89100" endtime="89200" />
+      <Effect label="MBP" starttime="89200" endtime="89275" />
+      <Effect label="AI" starttime="89275" endtime="89425" />
+      <Effect label="etc" starttime="89425" endtime="89575" />
+      <Effect label="etc" starttime="101025" endtime="101100" />
+      <Effect label="AI" starttime="101100" endtime="101175" />
+      <Effect label="MBP" starttime="101175" endtime="101250" />
+      <Effect label="AI" starttime="101250" endtime="101400" />
+      <Effect label="etc" starttime="101400" endtime="101575" />
+      <Effect label="etc" starttime="160100" endtime="160175" />
+      <Effect label="etc" starttime="160175" endtime="160250" />
+      <Effect label="AI" starttime="160250" endtime="160300" />
+      <Effect label="MBP" starttime="160300" endtime="160600" />
+      <Effect label="etc" starttime="160600" endtime="160725" />
+      <Effect label="AI" starttime="160725" endtime="160875" />
+      <Effect label="MBP" starttime="160875" endtime="160975" />
+      <Effect label="AI" starttime="160975" endtime="161050" />
+      <Effect label="etc" starttime="161050" endtime="161150" />
+      <Effect label="etc" starttime="161150" endtime="161300" />
+      <Effect label="U" starttime="161300" endtime="161450" />
+      <Effect label="etc" starttime="161450" endtime="161600" />
+      <Effect label="etc" starttime="173025" endtime="173125" />
+      <Effect label="AI" starttime="173125" endtime="173200" />
+      <Effect label="MBP" starttime="173200" endtime="173300" />
+      <Effect label="AI" starttime="173300" endtime="173450" />
+      <Effect label="etc" starttime="173450" endtime="173600" />
+   </EffectLayer>
+</timing>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2017.32</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette8=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
+    <Effect></Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="6684731" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="LIC" visible="1"/>
+    <Element collapsed="0" type="model" name="BRP" visible="1"/>
+    <Element collapsed="0" type="model" name="TRP" visible="1"/>
+    <Element collapsed="0" type="model" name="BLE" visible="1"/>
+    <Element collapsed="0" type="model" name="TRE" visible="1"/>
+    <Element collapsed="0" type="model" name="TLE" visible="1"/>
+    <Element collapsed="0" type="model" name="TRG" visible="1"/>
+    <Element collapsed="0" type="model" name="BRE" visible="1"/>
+    <Element collapsed="0" type="model" name="TLG" visible="1"/>
+    <Element collapsed="0" type="model" name="TLP" visible="1"/>
+    <Element collapsed="0" type="model" name="BRG" visible="1"/>
+    <Element collapsed="0" type="model" name="BLP" visible="1"/>
+    <Element collapsed="0" type="model" name="RIC" visible="1"/>
+    <Element collapsed="0" type="model" name="ROC" visible="1"/>
+    <Element collapsed="0" type="model" name="LOC" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 7" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 8" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="LIC">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="BRP">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="TRP">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="3"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="BLE">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="TRE">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="5"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="TLE">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="TRG">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="BRE">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="TLG">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="TLP">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="BRG">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="BLP">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="5"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="RIC">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="ROC">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="LOC">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="9900" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="9900" endTime="19700" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Output 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 3">
+      <EffectLayer>
+        <Effect ref="2" name="Butterfly" selected="1" startTime="19800" endTime="40100" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Output 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 8">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

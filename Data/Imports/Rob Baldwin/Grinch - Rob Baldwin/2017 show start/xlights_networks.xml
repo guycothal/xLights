@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="DESKTOP-VC5K91O">
+  <network ComPort="192.168.0.100" BaudRate="1" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="2" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="3" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="4" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="5" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="6" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="7" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="8" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="9" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="10" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="11" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="12" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="13" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="14" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="15" NetworkType="E131" MaxChannels="512"/>
+  <network ComPort="192.168.0.100" BaudRate="16" NetworkType="E131" MaxChannels="501"/>
+  <network ComPort="192.168.0.101" BaudRate="17" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.101" BaudRate="18" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.101" BaudRate="19" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.101" BaudRate="20" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.101" BaudRate="21" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.101" BaudRate="22" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.101" BaudRate="23" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.101" BaudRate="24" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.101" BaudRate="25" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.101" BaudRate="26" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.101" BaudRate="27" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.101" BaudRate="28" NetworkType="E131" Enabled="No" MaxChannels="260"/>
+  <network ComPort="192.168.0.30" BaudRate="29" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="30" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="31" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="32" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="33" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="34" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="35" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="36" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="37" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="38" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="39" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="40" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="41" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="42" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="43" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="44" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="45" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="46" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="47" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="48" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="49" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="50" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="51" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="52" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="53" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="54" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="55" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="56" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="57" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="58" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="59" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="60" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="61" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="62" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="63" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="64" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="65" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="66" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="67" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="68" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="69" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="70" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="71" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="72" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="73" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="74" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="75" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="76" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="77" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="78" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="79" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="80" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="81" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="82" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="83" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="84" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="85" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="86" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="87" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="88" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="89" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="90" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="91" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="92" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="93" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="94" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="95" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="96" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="97" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="98" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="99" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="100" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="101" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="102" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="103" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="104" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="105" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="106" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="107" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="108" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="109" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="110" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="111" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="112" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="113" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="114" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="115" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="116" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="117" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="118" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="119" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="120" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="121" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="122" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="123" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="124" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="125" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="126" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="127" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="128" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="129" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="130" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="131" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="132" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="133" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="134" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="135" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+  <network ComPort="192.168.0.30" BaudRate="136" NetworkType="E131" Enabled="No" MaxChannels="512"/>
+</Networks>

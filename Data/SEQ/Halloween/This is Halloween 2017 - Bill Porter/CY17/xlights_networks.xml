@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="WORKBENCHPC2015">
+  <network ComPort="MULTICAST" BaudRate="1" NetworkType="E131" Description="InternalStrips" MaxChannels="444"/>
+  <network ComPort="10.0.2.149" BaudRate="2" NetworkType="E131" Description="LandscapeLights" MaxChannels="360"/>
+  <network ComPort="10.0.2.150" BaudRate="5" NetworkType="E131" Description="Grids" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="6" NetworkType="E131" Description="Grids" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="7" NetworkType="E131" Description="Grids" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="8" NetworkType="E131" Description="Grids" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="9" NetworkType="E131" Description="Grids" MaxChannels="232"/>
+  <network ComPort="10.0.2.51" BaudRate="10" NetworkType="E131" Description="PixelPoles" MaxChannels="512"/>
+  <network ComPort="10.0.2.51" BaudRate="11" NetworkType="E131" Description="PixelPoles" MaxChannels="512"/>
+  <network ComPort="10.0.2.51" BaudRate="12" NetworkType="E131" Description="PixelPoles" MaxChannels="272"/>
+  <network ComPort="10.0.2.51" BaudRate="13" NetworkType="E131" Description="LeapingArches" MaxChannels="512"/>
+  <network ComPort="10.0.2.51" BaudRate="14" NetworkType="E131" Description="Leaping Arches" MaxChannels="124"/>
+  <network ComPort="10.0.2.51" BaudRate="15" NetworkType="E131" Description="TombStones" MaxChannels="512"/>
+  <network ComPort="10.0.2.51" BaudRate="16" NetworkType="E131" Description="TombStones" MaxChannels="262"/>
+  <network ComPort="10.0.2.51" BaudRate="17" NetworkType="E131" Enabled="No" Description="MiniTrees" MaxChannels="512"/>
+  <network ComPort="10.0.2.51" BaudRate="18" NetworkType="E131" Enabled="No" Description="MiniTrees" MaxChannels="328"/>
+  <network ComPort="10.0.2.148" BaudRate="20" NetworkType="E131" Enabled="No" Description="Snowflakes" MaxChannels="512"/>
+  <network ComPort="10.0.2.148" BaudRate="21" NetworkType="E131" Enabled="No" Description="Snowflakes" MaxChannels="512"/>
+  <network ComPort="10.0.2.148" BaudRate="22" NetworkType="E131" Enabled="No" Description="Snowflakes" MaxChannels="128"/>
+  <network ComPort="MULTICAST" BaudRate="25" NetworkType="E131" Enabled="No" Description="WindowTrim" MaxChannels="420"/>
+  <network ComPort="10.0.2.150" BaudRate="30" NetworkType="E131" Description="PixelIcicles" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="31" NetworkType="E131" Description="PixelIcicles" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="32" NetworkType="E131" Description="PixelIcicles" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="33" NetworkType="E131" Description="PixelIcicles" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="34" NetworkType="E131" Description="PixelIcicles" MaxChannels="16"/>
+  <network ComPort="10.0.2.150" BaudRate="35" NetworkType="E131" Description="RoofLine" MaxChannels="354"/>
+  <network ComPort="10.0.2.51" BaudRate="40" NetworkType="E131" Enabled="No" Description="PixelTree" MaxChannels="512"/>
+  <network ComPort="10.0.2.51" BaudRate="41" NetworkType="E131" Enabled="No" Description="PixelTree" MaxChannels="512"/>
+  <network ComPort="10.0.2.51" BaudRate="42" NetworkType="E131" Enabled="No" Description="PixelTree" MaxChannels="512"/>
+  <network ComPort="10.0.2.51" BaudRate="43" NetworkType="E131" Enabled="No" Description="PixelTree" MaxChannels="264"/>
+  <network ComPort="10.0.2.51" BaudRate="44" NetworkType="E131" Enabled="No" Description="PixelTreeStar" MaxChannels="270"/>
+  <network ComPort="10.0.2.150" BaudRate="50" NetworkType="E131" Description="HalloweenRenard" MaxChannels="32"/>
+  <network ComPort="MULTICAST" BaudRate="51" NetworkType="E131" Enabled="No" Description="Renard8" MaxChannels="8"/>
+  <network ComPort="MULTICAST" BaudRate="55" NetworkType="E131" Enabled="No" Description="SingingTree" MaxChannels="318"/>
+  <network ComPort="10.0.2.52" BaudRate="60" NetworkType="E131" Enabled="No" Description="Snowflakes" MaxChannels="512"/>
+  <network ComPort="10.0.2.52" BaudRate="61" NetworkType="E131" Enabled="No" Description="Snowflakes" MaxChannels="512"/>
+  <network ComPort="10.0.2.52" BaudRate="62" NetworkType="E131" Enabled="No" Description="Snowflakes" MaxChannels="128"/>
+  <network ComPort="10.0.2.52" BaudRate="65" NetworkType="E131" Enabled="No" Description="CandyCanes" MaxChannels="512"/>
+  <network ComPort="10.0.2.52" BaudRate="66" NetworkType="E131" Enabled="No" Description="CandyCanes" MaxChannels="64"/>
+  <network ComPort="10.0.2.150" BaudRate="70" NetworkType="E131" Description="SingingBulbs" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="71" NetworkType="E131" Description="SingingBulbs" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="72" NetworkType="E131" Description="SingingBulbs" MaxChannels="263"/>
+  <network ComPort="10.0.2.150" BaudRate="80" NetworkType="E131" Description="SpidersAndWeb" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="81" NetworkType="E131" Description="SpidersAndWeb" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="82" NetworkType="E131" Description="SpidersAndWeb" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="83" NetworkType="E131" Description="SpidersAndWeb" MaxChannels="512"/>
+  <network ComPort="10.0.2.150" BaudRate="84" NetworkType="E131" Description="SpidersAndWeb" MaxChannels="512"/>
+  <testpreset name="LOR AND RGB DUMB">
+    <channelr start="1" end="528"/>
+  </testpreset>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="LOR AND RGB DUMB">
+    <channelr start="1" end="528"/>
+  </testpreset>
+  <testpreset name="LOR AND RGB DUMB">
+    <channelr start="1" end="528"/>
+  </testpreset>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="LOR AND RGB DUMB">
+    <channelr start="1" end="528"/>
+  </testpreset>
+</Networks>
